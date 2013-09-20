@@ -19,6 +19,7 @@ Controls:
 Requirements
 ------------
 
-The Qt5 framework must be present to compile this application.
+* QMake
+* The Qt5 framework, http://qt-project.org/
+* Boost C++ libraries (only headers needed), http://www.boost.org/
 
-I used Qt Creator, so I'm including its files as well.
